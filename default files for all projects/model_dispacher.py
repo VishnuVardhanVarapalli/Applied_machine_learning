@@ -11,5 +11,6 @@ models = {
     "logistic_regression": linear_model.LogisticRegression(),
     "linear_regression": linear_model.LinearRegression()
     
+    #some models need to be added.. for learning, these models are enough
 }
 
